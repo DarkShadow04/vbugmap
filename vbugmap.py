@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 """
 VBUGmap v1.0
-Author: DedSecTL/DTL
+Author: Dark_Shadow04
 Date: 12-12-2017 (04:26)
-Github: https://github.com/Gameye98
-Blog: http://droidsec9798-com.mwapblog.com
-BlackHole Security (BlackHoleSec)
+Github: https://github.com/DarkShadow04
+Blog: https://arfortech.wordpress.com/
+Hackenforce (Hackenforce & arfortech collaboration)
 """
 import os, sys, urllib
 
